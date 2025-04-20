@@ -24,3 +24,14 @@ toggleBtn.onclick = () => {
     ? '<i class="fas fa-sun"></i>'
     : '<i class="fas fa-moon"></i>';
 };
+}
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
