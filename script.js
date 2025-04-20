@@ -24,4 +24,3 @@ toggleBtn.onclick = () => {
     ? '<i class="fas fa-sun"></i>'
     : '<i class="fas fa-moon"></i>';
 };
-
